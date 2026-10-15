@@ -1,0 +1,6 @@
+{
+  "name": "1Thar Restaurant Mansarovar Jaipur",
+  "description": "Official website and drag-and-drop CMS for 1Thar Restaurant in Patrakar Colony, Mansarovar, Jaipur. North Indian dining, online orders, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
